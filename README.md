@@ -14,7 +14,7 @@ The goal is to develop the reasoning process used by Security Analysts and SOC t
 
 ---
 
-## Scope (2–4 Weeks)
+## Scope (Phase 2–4)
 
 This project runs in a controlled local Windows environment with:
 
@@ -33,7 +33,7 @@ The emphasis is on:
 
 ## Identity Model
 
-### 1. Standard User (lab_user)
+### 1. Standard User (jbenros.user)
 Represents a normal employee.
 
 Expected behavior:
@@ -45,7 +45,7 @@ Expected behavior:
 
 ---
 
-### 2. Administrator (lab_admin)
+### 2. Administrator (jbenros.admin)
 Represents IT / privileged access.
 
 Expected behavior:
