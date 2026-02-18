@@ -73,10 +73,10 @@ Key principles:
 
 ## Project Phases
 
-Week 1 – Establish baseline behavior  
-Week 2 – Introduce controlled deviations  
-Week 3 – Improve investigative reasoning  
-Week 4 – Reflection and scaling considerations  
+Phase 1 – Establish baseline behavior  
+Phase 2 – Introduce controlled deviations  
+Phase 3 – Improve investigative reasoning  
+Phase 4 – Reflection and scaling considerations  
 
 ---
 
