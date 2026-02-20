@@ -60,8 +60,6 @@ Session Length:
 
 #### Evidence
 
-#### Evidence
-
 ![Admin Privilege Assignment](../evidence/phase1/phase1-session2-admin-4672.png)
 
 ---
