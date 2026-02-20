@@ -4,11 +4,11 @@
 
 ## Session 1 – 2/18/26
 
-## Purpose:
+### Purpose:
 
 Establish baseline authentication behavior.
 
-## Standard User Login
+### Standard User Login
 
 Observed Events:
 - Event ID: 4624
@@ -19,7 +19,7 @@ Observed Events:
   - Normal local login observed
   - No 4672 event present (no elevated privileges)
 
-## Administrator Login
+### Administrator Login
 
 Observed Differences:
 - Additional fields:
@@ -29,7 +29,7 @@ Observed Differences:
 - Session length:
   - Very short; used only to review logs.
 
-## Initial Takeaways
+### Initial Takeaways
 
 - What surprised me:
 - What was repetitive:
@@ -38,3 +38,25 @@ Observed Differences:
 ---
 
 ## Session 2 – 2/19/26
+
+### Purpose:
+Confirm administrator privilege baseline and identify privilege assignment indicators.
+
+### Administrator Login
+
+Observed Events:
+- Event ID: 4624
+- Event ID: 4672 (Special privileges assigned)
+- Logon Type: 2 (Interactive)
+- Authentication Package: Negotiate
+
+Observed Differences: 
+- 4672 event present for admin login.
+- 4672 confirms elevated privilege assignment at session start.
+- Not observed in standard user baseline.
+
+Session Length:
+- Short, used only for log review.
+
+---
+
