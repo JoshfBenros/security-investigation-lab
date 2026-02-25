@@ -84,17 +84,4 @@ Triggering administrative elevation from a standard account should produce privi
 
 ---
 
-# Phase 2 Completion Criteria
-
-Phase 2 is complete when:
-
-- Controlled deviations are documented clearly.
-- Signal strength is properly evaluated.
-- Privilege elevation behavior is understood.
-- Time-based anomalies are contextualized.
-- Investigative reasoning is clearly articulated.
-
-Phase 2 in progress.
----
-
 Phase 2 in progress.
